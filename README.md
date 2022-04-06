@@ -1,4 +1,7 @@
+```Csharp
+
 using System;
+
    
 namespace ExceptionHandling // Note: actual namespace depends on the project name.
 {
@@ -49,3 +52,4 @@ namespace ExceptionHandling // Note: actual namespace depends on the project nam
         }
     }
 }
+```
